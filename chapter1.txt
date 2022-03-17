@@ -1,6 +1,0 @@
-=====
-CHAPTER 1
-=====
-
-I put some words here, and puff, this is the chapter one.
-I remove a row from here to chapter 2.
